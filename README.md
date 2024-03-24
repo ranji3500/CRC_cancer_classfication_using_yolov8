@@ -1,0 +1,2 @@
+# CRC_cancer_classfication_using_yolov8
+ using tensorflow colorectal_histology images
